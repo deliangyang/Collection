@@ -3,16 +3,19 @@ https://github.com/waruqi/tbox/wiki/%E5%88%A9%E7%94%A8stream%E5%AE%9E%E7%8E%B0%E
 
 http://blog.csdn.net/ns_code/article/details/14128987  
 
+hacker:
+http://www.hackdig.com/?tag=%E9%BB%91%E5%AE%A2%E6%94%BB%E9%98%B2
 
-http://blog.csdn.net/singwhatiwannaÈÎÓñ¸Õ
-ÖĞ¹úÁìÏÈµÄ¡¢¸»ÓĞ´´ĞÂ¾«ÉñµÄAndroid¼¼Êõ·ÖÏíÕß
+
+http://blog.csdn.net/singwhatiwannaä»»ç‰åˆš
+ä¸­å›½é¢†å…ˆçš„ã€å¯Œæœ‰åˆ›æ–°ç²¾ç¥çš„AndroidæŠ€æœ¯åˆ†äº«è€…
 
 
-Êı¾İ½á¹¹ÓëËã·¨µÄÑ§Ï°
+æ•°æ®ç»“æ„ä¸ç®—æ³•çš„å­¦ä¹ 
 
-	Êı¾İ½á¹¹ÓëËã·¨·ÖÎö--cÓïÑÔÃèÊö
-	Î¢ÈíÃÎ¹¤³§Ëã·¨Éè¼ÆÓë·ÖÎö
-	Ëã·¨Òıµ¼
+	æ•°æ®ç»“æ„ä¸ç®—æ³•åˆ†æ--cè¯­è¨€æè¿°
+	å¾®è½¯æ¢¦å·¥å‚ç®—æ³•è®¾è®¡ä¸åˆ†æ
+	ç®—æ³•å¼•å¯¼
 	Elements Of Programming
 	C interfaces and Implementations
 	Algorithms on Strings, Trees and Sequences
@@ -20,6 +23,6 @@ http://blog.csdn.net/singwhatiwannaÈÎÓñ¸Õ
 	Algorithm Design Manual
 	Programming Pearls
 	The Science of Programming
-	Ëã·¨ algorithms
+	ç®—æ³• algorithms
 	
 	
