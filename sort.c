@@ -11,7 +11,11 @@ int main(int argc, char *argv[])
 
 	for (i = 0; i < 300; i++)
 		arr[i] = rand() % 300;
-	quick_sort(arr, 0, SIZE-1);
+	//quick_sort(arr, 0, SIZE-1);
+	//insert_sort(arr, SIZE);
+	//select_sort(arr, SIZE);
+	//shell_sort(arr, SIZE);
+	merge_sort(arr, SIZE);
 	print_array(arr, SIZE);
 
 	return 0;
